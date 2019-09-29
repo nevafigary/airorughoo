@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iexoolaav.wegamestore.nl/sitemap.xml
